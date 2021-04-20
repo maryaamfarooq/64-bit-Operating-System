@@ -7,7 +7,7 @@
   -Remember to add Qemu to the path so that you can access it from your command-line. (Windows instructions here)
   
 ## Setup
--------------------------------------------------------------------------------
+
 Build an image for our build-environment:
 
 - ___docker build buildenv -t myos-buildenv___
