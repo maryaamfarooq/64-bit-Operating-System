@@ -1,5 +1,5 @@
 # 64-bit Operating System from scratch
----------------------------------
+
 ## Prerequisites
 - A text editor such as _VS Code_.
 - _Docker_ for creating our build-environment.
