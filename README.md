@@ -23,7 +23,7 @@ Enter build environment:
 
 Build for x86 (other architectures may come in the future):
 
-___make build-x86_64___
+- ___make build-x86_64___
 
 To leave the build environment, enter ___exit___.
 
