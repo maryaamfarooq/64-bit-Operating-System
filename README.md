@@ -11,6 +11,7 @@
 Build an image for our build-environment:
 
 - ___docker build buildenv -t myos-buildenv___
+
 Build
 -------------------------------------------------------------------------------
 Enter build environment:
