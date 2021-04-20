@@ -20,6 +20,7 @@ Enter build environment:
 - Windows (CMD): docker run --rm -it -v "%cd%":/root/env myos-buildenv
 - Windows (PowerShell): docker run --rm -it -v "${pwd}:/root/env" myos-buildenv
 - NOTE: If you are having trouble with an unshared drive, ensure your docker daemon has access to the drive you're development environment is in. For Docker Desktop, this is in "Settings > Shared Drives" or "Settings > Resources > File Sharing".
+
 Build for x86 (other architectures may come in the future):
 
 ___make build-x86_64___
