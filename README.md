@@ -1,2 +1,1 @@
-# cao_ass
- 64-bit Operating System from scratch
+# 64-bit Operating System from scratch
